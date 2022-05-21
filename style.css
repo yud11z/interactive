@@ -96,6 +96,7 @@ h1 {
     justify-content: center;
     letter-spacing: 3px;
     font-weight: 700;
+    width: 32em;
 }
 
 .button:hover{
